@@ -1,1 +1,3 @@
 # PawsitivePetAcademyApp
+
+Added index page
