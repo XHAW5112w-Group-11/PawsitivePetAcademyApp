@@ -11,3 +11,5 @@ Added the courses page
 NOTE FOR OPENING FILES!!
 
 To open the files they need to be unzipped as they are snack expo files. Pages will be properly linked at the end of the assignment.
+
+Colour palette for the mobile app go along with the website's colours as they are the brand's colours.
